@@ -1,3 +1,5 @@
 *.o 
-*.exe 
+*.exe
+desktop.ini
+tempCodeRunnerFile.cpp
 .vscode/
